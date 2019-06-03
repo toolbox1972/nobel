@@ -3,3 +3,7 @@
 The soution includes: HTML/CSS/javascript/ajax.
 
 The layout is created and structured with CSS Grid.
+
+Javascript is plain vanilla.
+
+No framework is used.
