@@ -1,4 +1,4 @@
-An app that contacs Nobel prize API and fetches a specific year result.
+**An app that contacs Nobel prize API and fetches a specific year result.**
 
 The soution includes: HTML/CSS/javascript/ajax.
 
