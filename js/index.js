@@ -1,4 +1,3 @@
-console.log("test");
 
 // ref:
 // https://stackoverflow.com/questions/36975619/how-to-call-a-rest-web-service-api-from-javascript
@@ -69,11 +68,11 @@ var url = "http://api.nobelprize.org/v1/prize.json";
                     (response.prizes[0].laureates[0].firstname) + " " +
                     (response.prizes[0].laureates[0].surname);
 
-         // Print to console
-         console.log(response.prizes[0].year);
-         console.log(response.prizes[0].category);
-         console.log(response.prizes[0].laureates[0].firstname);
-         console.log(response.prizes[0].laureates[0].surname);
+         // Print to console (for troubleshooting).
+             // console.log(response.prizes[0].year);
+             // console.log(response.prizes[0].category);
+             // console.log(response.prizes[0].laureates[0].firstname);
+             // console.log(response.prizes[0].laureates[0].surname);
 
          // printouts();
  }
