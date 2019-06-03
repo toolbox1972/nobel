@@ -23,11 +23,11 @@ body {
 
 .wrapper {
     background-color: #1f260e;
-    border-radius: 0px;
+    /* border-radius: 4px; */
 }
 
-.header-1 {grid-area: header-1}
-.header-2 {grid-area: header-2}
+.header-1 {grid-area: header-1;}
+.header-2 {grid-area: header-2;}
 .search-area {grid-area: search-area;}
 .result-area {grid-area: result-area;}
 
